@@ -29,6 +29,9 @@ An example csv file of the tweets and the number of crimes per month.  Actual da
 
 An example csv file of the tweets and the number of crimes per month with keywords.  Actual data cannot be shared, so use this for the markdown files.
 
+## hate_crime.csv
+
+A datset containing the hate crimes over the last 30 years provided by the US gov website https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#datasets
 
 ---------------------------------------------------
 
