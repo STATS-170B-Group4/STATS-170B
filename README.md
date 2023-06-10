@@ -37,3 +37,5 @@ A datset containing the hate crimes over the last 30 years provided by the US go
 
 Files were downloaded with main.py, edited with Sentiment_vecotr.py, and then wrangled with Data_management.py
 
+We are unable to pricde the original datasets, so we have example sets of data instead. This will drastically effect the results of the Markdown file.
+
