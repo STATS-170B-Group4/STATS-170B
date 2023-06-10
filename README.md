@@ -13,6 +13,10 @@ Contains the ML model that scores tweets by sentiment
 
 Creates crimes per day and crimes per month tables
 
+## Stats170B.Rmd
+
+Logistic Models for regression
+
 ---------------------------------------------------
 
 Files were downloaded with main.py, edited with Sentiment_vecotr.py, and then wrangled with Data_management.py
