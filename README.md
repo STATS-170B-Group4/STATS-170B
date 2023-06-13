@@ -39,3 +39,5 @@ Files were downloaded with main.py, edited with Sentiment_vecotr.py, and then wr
 
 We are unable to pricde the original datasets, so we have example sets of data instead. This will drastically effect the results of the Markdown file.
 
+To view logistic models, download the relevant csv files and run the markdown script.
+
